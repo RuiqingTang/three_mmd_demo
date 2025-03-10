@@ -21,5 +21,5 @@
 
 # Demo效果
 
-![Demo GIF](./output/demo_video/demo.gif)
+https://github.com/user-attachments/assets/f2e8ff81-77db-41fb-bd96-04c0a441c8ea
 
