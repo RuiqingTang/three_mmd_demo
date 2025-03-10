@@ -1,0 +1,41 @@
+{
+  "name": "hutao",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "personal three.js demo project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node scripts/esbuild.serve.mjs",
+    "build": "node scripts/esbuild.build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuban12315/hutao.git"
+  },
+  "keywords": [
+    "hutao",
+    "three.js"
+  ],
+  "author": "yuban12315",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuban12315/hutao/issues"
+  },
+  "homepage": "https://github.com/yuban12315/hutao#readme",
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@types/styled-components": "^5.1.26",
+    "@types/three": "^0.146.0",
+    "esbuild": "^0.16.4"
+  },
+  "dependencies": {
+    "ammo.js": "^0.0.10",
+    "dat.gui": "^0.7.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.6",
+    "three": "^0.147.0"
+  }
+}

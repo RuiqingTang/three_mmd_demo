@@ -1,0 +1,1 @@
+This repo is just a demo for rendering pmx with three.js.
