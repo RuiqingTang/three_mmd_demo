@@ -18,5 +18,8 @@
 
   算法已经实现了，但是导出的bvh不是smpl的骨骼，对mmd_tools_helper和mmd_tools插件做了二次开发，但是转vmd的时候日语乱码，还没处理好。虽然有替代的算法，可以转成vmd，当然也会有和music2dance类似的滑步问题，但是主要是生成的动作和文本匹配度不够高，并且延迟很高，体验很不好。
 
-  
+
+# Demo效果
+
+![Demo GIF](./output/demo_video/demo.gif)
 
