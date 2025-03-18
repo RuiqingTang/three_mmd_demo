@@ -2,6 +2,8 @@
 
 由于本人对TS和JS完全不懂，全靠claude和deepseek，所以开发进度缓慢。
 
+**News** : smpl转vmd滑步问题难以解决，暂时放弃mmd生态，准备转向Unity，走fbx那一套，但是模型依旧可以使用mmd的pmx模型（需转成fbx），敬请期待。
+
 # Roadmap
 
 - 同步播放音乐和vmd动画（已实现）
